@@ -6,9 +6,9 @@
 //  Copyright © 2018年 iamgang. All rights reserved.
 //
 
-#import <TMWebFramework/TMWebViewController.h>
+#import <TMWebFramework/TMWebFramework.h>
 
-@interface ViewController : TMWebViewController
+@interface ViewController : TMWebFramework
 
 
 @end
