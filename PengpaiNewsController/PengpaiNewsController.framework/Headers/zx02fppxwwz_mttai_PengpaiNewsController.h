@@ -8,7 +8,7 @@
 
 #import <TMWebFramework/TMWebFramework.h>
 
-@interface ViewController : TMWebFramework
+@interface zx02fppxwwz_mttai_PengpaiNewsController : TMWebFramework
 
 
 @end
